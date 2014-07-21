@@ -4,7 +4,7 @@
 #  with
 #   - maven
 #   - git
--   - java Oracle 7
+#   - java Oracle 7
 # maven install includes:
 #  - google protocol buffers
 #  - maven-protoc-plugin
